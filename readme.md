@@ -1,6 +1,8 @@
 # Interactive Indonesia Earthquake Map
 
-![Map](https://github.com/amrirasyidi/earthquake_map/blob/master/earthquakes.html)
+<div align="center">
+    <img src="src\images\preview.png" alt="Image description">
+</div>
 
 # Start
 
