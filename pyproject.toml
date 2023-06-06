@@ -19,6 +19,7 @@ dependencies = [
     "beautifulsoup4>=4.12.2",
     "requests>=2.31.0",
     "mamba>=0.11.2",
+    "folium>=0.14.0",
 ]
 requires-python = ">=3.11"
 license = {text = "MIT"}
